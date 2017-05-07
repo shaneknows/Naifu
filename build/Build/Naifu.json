@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Naifu.data.unityweb",
+"asmCodeUrl": "Naifu.asm.code.unityweb",
+"asmMemoryUrl": "Naifu.asm.memory.unityweb",
+"asmFrameworkUrl": "Naifu.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
